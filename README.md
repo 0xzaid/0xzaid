@@ -14,7 +14,7 @@ class SoftwareEngineer:
         print("Hello! thanks for visiting my github!")
 
 me = SoftwareEngineer()
-me.say_hi()
+me.say_hello()
 
 ```
 
