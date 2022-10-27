@@ -21,6 +21,7 @@ me.say_hello()
 ## Profiles
 
 <a href="https://linkedin.com/in/zaid-al-dirbashi"><img src="https://img.shields.io/badge/Zaid%20Al--Dirbashi-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zaid.aldirbashi@gmail.com"><img src="https://img.shields.io/badge/-zaid.aldirbashi-red?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ## 🔧 Technologies & Tools
 
