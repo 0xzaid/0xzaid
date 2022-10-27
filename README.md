@@ -20,7 +20,7 @@ me.say_hello()
 
 ## Profiles
 
-<a href="https://linkedin.com/in/zaid-al-dirbashi"><img src="https://img.shields.io/badge/-zaid-al-dirbashi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zaid-al-dirbashi"><img src="https://img.shields.io/badge/Zaid%20Al--Dirbashi-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ## 🔧 Technologies & Tools
 
