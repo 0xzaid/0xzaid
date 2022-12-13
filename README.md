@@ -35,6 +35,9 @@ me.say_hello()
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=6aa6f8)
 
+## Top langauges
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzaid&langs_count=8&layout=compact&theme=github_dark)](https://github.com/0xzaid/0xzaid) 
+
 ## Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xzaid&langs_count=8&layout=compact&theme=github_dark)](https://github.com/0xzaid/0xzaid) [![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid&theme=github_dark&show_icons=true&count_private=true)](https://github.com/0xzaid/0xzaid)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid&theme=github_dark&show_icons=true&count_private=true)](https://github.com/0xzaid/0xzaid)
 
