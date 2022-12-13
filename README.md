@@ -36,4 +36,4 @@ me.say_hello()
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=6aa6f8)
 
 ## Github
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid&theme=radical)](https://github.com/0xzaid/0xzaid)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid&theme=github_dark)](https://github.com/0xzaid/0xzaid)
