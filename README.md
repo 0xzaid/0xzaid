@@ -35,5 +35,5 @@ me.say_hello()
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=6aa6f8)
 
-## Most languages used
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid)](https://github.com/0xzaid/0xzaid)
+## Github
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xzaid&theme=radical)](https://github.com/0xzaid/0xzaid)
