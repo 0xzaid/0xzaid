@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
     [![Typing SVG](https://readme-typing-svg.herokuapp.com font=Ubuntu&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Zaid;Coding+.+.+.;Sleeping+.+.+.)](https://git.io/typing-svg)
-</p>
+</div>
 ```python
 #!/usr/bin/python
 
