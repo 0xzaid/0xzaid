@@ -7,7 +7,7 @@ class SoftwareEngineer:
         self.name = "Zaid Al-Dirbashi"
         self.age = 22
         self.nationality = "Jordanian"
-        self.role = "Final semester Computer Science student"
+        self.role = "Software engineer"
         self.languages_spoken = ["en_US", "AR_JO"]
 
     def say_hello(self):
