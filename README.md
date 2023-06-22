@@ -5,7 +5,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Zaid Al-Dirbashi"
-        self.age = 21
+        self.age = 22
         self.nationality = "Jordanian"
         self.role = "Final semester Computer Science student"
         self.languages_spoken = ["en_US", "AR_JO"]
